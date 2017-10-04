@@ -4,7 +4,7 @@
 Quick demo view showing barcode scanning -> output to copyable textfield
 
 A few screen shots here:
-![Screenshot](scanning_ex.PNG "Capturing barcode")
+<img src="scanning_ex.PNG" width="200" height="400" />
 
 Copy via textfield - disabled keyboard:
-![Screenshot](copying_ex.PNG "Copying barcode to pasteboard")
+<img src="copying_ex.PNG" width="200" height="400" />
